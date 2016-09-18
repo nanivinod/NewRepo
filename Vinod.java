@@ -6,5 +6,6 @@ class Vinod
 		System.out.println("Vinod Kumar");
 		System.out.println("vikram kumar");
 		System.out.println("Amma");
+		System.out.println("Nana");
 	}
 }
